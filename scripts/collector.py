@@ -4,7 +4,7 @@ import os
 from github import Github
 
 
-GITHUB_TOKEN = os.getenv["GITHUB_TOKEN"]
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 REPOSITORY = "ishita17279/learnings"
 
 
